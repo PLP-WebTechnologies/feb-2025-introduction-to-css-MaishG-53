@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body { 
+    background-color:aqua;
+    color:rgb(61, 132, 194);
+    font-family: 'Times New Roman', Times, serif;
+    line-height: normal;
+    padding: 20px;
+}
+/* Style the headings to stand out */
+h1,  {
+    color: blue  /* White text for headings */
+    margin-bottom: 10px;
+  }
+  
+  /* Links should be easy to see with a bright color */
+  a {
+    color: #1E90FF;  /* Bright blue links */
+    text-decoration: none;
+  }
+
+  
+  /* Style paragraphs to improve readability */
+  p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+  }
+  
+  /* Give the container a card-like look with rounded corners and a subtle shadow */
+  .container {
+    background-color:brown  /* Dark grey background */
+    border-radius: 10px;
+    padding: 20px;
+    }
